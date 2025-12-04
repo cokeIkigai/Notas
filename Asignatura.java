@@ -5,28 +5,28 @@ public class Asignatura {
     private String nombre;
     private List<Integer> notas;
 
-    // Crea el constructor:
+    // 1. Crea el constructor: (0.2ptos)
+    
 
-
-    // Método agregarNota(int n)
+    // 2. Método agregarNota(int n) (0.2ptos)
     // - Solo añadir valores entre 0 y 10
 
 
-    // Método getNotas() de una asignatura concreta
+    // 3. Método getNotas() de una asignatura concreta (0.2ptos)
     // - Devolver la lista completa de notas
 
 
-    // Método promedio() de una asignatura
+    // 4. Método promedio() de una asignatura (0.5ptos)
     // - Si no hay notas -> devolver -1
     // - Calcular el promedio manualmente
 
 
-    // Método notaMaxima() de dicha asignatura
+    // 5. Método notaMaxima() de dicha asignatura (0.5ptos)
     // - Si no hay notas -> devolver -1
     // - Calcular el máximo manualmente
 
 
-    // Método notaMinima() de dicha asignatura
+    // 6. Método notaMinima() de dicha asignatura (0.5ptos)
     // - Si no hay notas -> devolver -1
     // - Calcular el mínimo manualmente
 }

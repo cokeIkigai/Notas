@@ -7,22 +7,22 @@ public class Estudiante {
     private List<Asignatura> asignaturas;
 
     // Debe inicializar la lista de asignaturas Lengua, Matematicas y Música 
-    // Crea el constructor:
+    // 7. Crea el constructor: (0.4ptos)
 
 
-    // Método agregarAsignatura(String nombre)
+    // 8. Método agregarAsignatura(String nombre) (1.0ptos)
     // - No permitir asignaturas repetidas
     // - Crear y añadir una nueva asignatura
 
 
-    // Método Devolver la lista completa de asignaturas
+    // 9. Método Devolver la lista completa de asignaturas (0.2ptos)
  
 
-    // Método para buscarAsignatura(String nombre)
+    // 10. Método para buscarAsignatura(String nombre)(0.3ptos)
     // - Devolver la asignatura si existe, o null si no
 
 
-    // Método para promedioGeneral()
+    // *OPCIONAL!!! 11. Método para promedioGeneral()(1.5ptos)
     /*
         Calcular el promedio de TODAS las notas de TODAS las asignaturas.
         Reglas:
@@ -33,7 +33,7 @@ public class Estudiante {
     //Método
 
 
-    // Método para ver resumen()
+    // *OPCIONAL!!! 12. Método para ver resumen()(1.5ptos)
     /*
         Formato esperado:
 
